@@ -1,0 +1,18 @@
+# This file lists the python packages that your software depends on.
+# It is used by pip to manage software dependencies. It is not to be
+# confused with the software requirements, which are listed in
+# doc/requirements.rst
+numpy
+scipy
+ipykernel
+jupyter
+nbsphinx<=0.8.8
+matplotlib
+scikit-surgerycore
+scikit-surgeryimage
+scikit-surgeryvtk>=2.1.1
+scikit-surgerynditracker
+scikit-surgeryarucotracker
+scikit-surgerycalibration==0.2.4
+scikit-surgerybard==1.0.0
+scikit-surgeryfred
